@@ -20,6 +20,10 @@
   ## Media
   ![Sreenshot](media/screenshot.png?raw=true)
 
+
+https://user-images.githubusercontent.com/84648098/133944549-f7405f1d-71b1-4ed8-ac1e-5a3eb8b1d82d.mp4
+
+
   ## Objective
   To store data for an online retail store
 
