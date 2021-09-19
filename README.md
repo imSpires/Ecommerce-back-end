@@ -44,11 +44,11 @@ https://user-images.githubusercontent.com/84648098/133944549-f7405f1d-71b1-4ed8-
 
   Install dependencies 
   ```
-  npm init --y
+  npm init
   ``` 
 
   ```
-  npm install express sequelize mysql2
+  npm i express sequelize mysql2
   ```
   Open up MySQL shell and input 
   ```
@@ -58,12 +58,12 @@ https://user-images.githubusercontent.com/84648098/133944549-f7405f1d-71b1-4ed8-
   ```
   npm run seed
   ```
-  to start running application simply input 
+  to start running application
   ```
   node server.js
   ```
 
-  Open up Insomnia core to GET, POST, PUT and DELETE from different routes.
+  Open up Insomnia core or Postman to GET, POST, PUT and DELETE from different routes.
 
   ## Usage
   The application is used to manage information in the ecommerce_db database. Use the PUT, POST, DELETE routes to modify the data.
